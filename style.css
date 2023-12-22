@@ -185,4 +185,10 @@ a:hover {
 a:active {
       text-decoration: none;
 }
-
+.row{
+    padding: 4% 6%;
+}
+.column{
+    float: left;
+    width: 50%;
+}
