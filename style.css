@@ -168,6 +168,15 @@ p{
     overflow: hidden;
 }
 
+.blog{
+    width: 100%;
+    height: 100%;
+    justify-content: left;
+    align-items: center;
+    padding: 5% 5%;
+    overflow: hidden;
+}
+
  a:link {
       text-decoration: none;
 }
